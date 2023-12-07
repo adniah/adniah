@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @adn1ah
-- 👀 I’m interested in anything.
-- 🌱 I’m currently learning Java, Python and C#.
-- 💞️ I’m looking to collaborate on something interesting.
-- 📫 How to reach me: (INDEV)
+computer science student.
+java, python and go.
+
 
 <!---
 adn1ah/adn1ah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
