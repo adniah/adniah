@@ -1,5 +1,4 @@
-computer science student. <br />
-java, python and go. <br />
+:)
 
 
 
