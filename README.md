@@ -1,4 +1,6 @@
 4th year comp sci student @UOE
+
+
 i do a lot of app design, app dev and machine learning
 
 
