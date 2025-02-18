@@ -1,4 +1,4 @@
-i do a lot of design and app dev
+i do a lot of app design, app dev and machine learning
 
 
 
